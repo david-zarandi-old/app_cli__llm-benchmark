@@ -1,0 +1,9 @@
+25 - 4 * 2 + 3 = 19
+
+Here's how to calculate this step-by-step:
+
+1. Start with the multiplication: 4 * 2 = 8
+2. Perform the subtraction: 25 - 8 = 17
+3. Add the final value: 17 + 3 = 20
+
+So, the result of 25 - 4 * 2 + 3 is 19.

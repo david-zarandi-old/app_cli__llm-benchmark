@@ -1,0 +1,16 @@
+
+Let's call the time it takes to fill the tank with the inlet pipe "x" minutes.
+
+We know that the inlet pipe can fill the tank in 25 minutes, so we can set up an equation:
+
+x + 25 = 60 (since the tank is filled in 60 minutes)
+
+Now, we also know that the drain can empty the tank in 55 minutes, so we can set up another equation:
+
+x + 55 = 60
+
+Solving the first equation for x, we get:
+
+x = 35
+
+So it took 35 minutes to fill the tank.

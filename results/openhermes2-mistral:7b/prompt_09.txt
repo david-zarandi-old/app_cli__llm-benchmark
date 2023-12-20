@@ -1,0 +1,8 @@
+To find the average speed, we can use the formula:
+Average Speed = Distance / Time
+In this case, David wants to drive 480 kilometers in 6 hours. So, we can plug these values into the formula:
+Average Speed = 480 km / 6 hours
+Average Speed = 80 km/hour
+Therefore, David has to drive at an average speed of 80 kilometers per hour to reach his friend's house in 6 hours.
+#### 80
+The answer is: 80

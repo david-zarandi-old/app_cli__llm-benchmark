@@ -1,0 +1,8 @@
+
+The correct order of operations (PEMDAS) for this expression is:
+
+1. Multiply 2 and 4: 2 * 4 = 8
+2. Add 3: 8 + 3 = 11
+3. Subtract 5 from the result: 11 - 5 = 6
+
+Therefore, 25 - 4 * 2 + 3 is equal to 6.

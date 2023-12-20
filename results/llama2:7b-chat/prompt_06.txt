@@ -1,0 +1,10 @@
+
+This is a classic lateral thinking puzzle. The answer is two.
+
+Here's how it works:
+
+1. When someone enters the room, they kill one of the three killers.
+2. Since nobody leaves the room, the person who entered the room must also be one of the killers.
+3. Therefore, there are two killers left in the room.
+
+The puzzle is trying to trick you into assuming that only one person entered the room, but since nobody leaves the room, it must be that two people entered the room and killed each other.

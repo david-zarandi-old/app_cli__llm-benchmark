@@ -1,0 +1,10 @@
+
+<jupyter_code>
+from math import *
+#1) Calculate the average speed in m/s from distance and time (in hours):
+
+def avg_speed(dis,time): #function for calculate the average speed of the car
+    return dis/(time*3600)  #avg speed is given by this formula
+print("The average speed of the car in m/s is",round(avg_speed(480,6),2))#calling and printing function result rounded to 2 decimal places
+<jupyter_output>
+The average speed of the car in m/s is 3.17

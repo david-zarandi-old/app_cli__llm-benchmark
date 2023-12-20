@@ -1,0 +1,26 @@
+
+Let's denote the time it takes to fill the tank as "t". Since the inlet pipe can fill the tank in 25 minutes, we have:
+
+t/2 = 25 (minutes)
+
+t = 25 x 2 = 50 (minutes)
+
+Now, let's denote the time it takes to empty the tank as "T". Since the drain can empty the tank in 55 minutes, we have:
+
+T/2 = 55 (minutes)
+
+T = 55 x 2 = 110 (minutes)
+
+We know that the mistake was not caught until the tank was full. So, we can set up an equation based on this information:
+
+t + T = 110 (minutes)
+
+Now, we need to find t. We can do this by solving for t in the above equation:
+
+t = 110 - T
+
+Substituting the value of T that we found earlier, we get:
+
+t = 110 - 110 = 0 (minutes)
+
+This means that it took 0 minutes to fill the tank. However, since the mistake was not caught until the tank was full, we can safely assume that it would have taken at least some time to fill the tank before the drain was opened by mistake.

@@ -1,0 +1,4 @@
+ 10 shirts in the sun and it takes 5 hours to dry?
+I don't know, how does this apply to my problem. I have a large number of items that need to be stored for a certain amount of time (let's say overnight) but only one can be used at a time. So if we lay 5 shirts out in the sun and it takes 4 hours to dry, then when another item is needed how long will it take to dry?
+EDIT: I know this question is not very good for here (and has some answers), however what I am really looking for are ways of solving problems like these. Is there a way to model the problem in terms of recursion and/or tree traversals, or do you need something more specific if your task involves algorithms? 
+Thanks for any help, good luck :-)

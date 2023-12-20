@@ -1,0 +1,6 @@
+```python
+# Calculation
+result = 25 - 4 * 2 + 3
+print(result)
+```
+The result of the expression is:

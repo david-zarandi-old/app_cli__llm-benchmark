@@ -1,0 +1,8 @@
+
+The time complexity of this algorithm is O(2^n), where n is the input size.
+
+The function f calls itself twice for each value of n, so the total number of times the function is called is 2^n. Each call to the function takes a constant amount of time, so the total time complexity of the algorithm is also O(2^n).
+
+In general, when analyzing the time complexity of a recursive algorithm, it's important to consider the base case and the recursive case separately. In this case, the base case is n < 2, which has a time complexity of O(1), and the recursive case is f(n - 1) + f(n - 2), which has a time complexity of O(f(n-1)) + O(f(n-2)), which simplifies to O(2^n).
+
+Therefore, the overall time complexity of this algorithm is O(2^n).

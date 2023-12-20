@@ -1,0 +1,24 @@
+
+<jupyter_code>
+import networkx as nx  # package used to draw graph and run algorithms on graph
+from networkx.drawing.nx_agraph import write_dot
+# create a graph of the room and all the objects in it (ball, basket, box)
+graph = nx.DiGraph()  
+graph.add_node('Room') # add node 'room' to graph
+graph.add_edge('Room', 1234567890,'John', 'Mark','Ball In Room', 'Basket In Box And Room After Work', ['Box'])# add edge between room and ball in room, then edges from John/Mark are added to the graph
+graph.add_node(1234567890) # adding node  of object Ball (after it is removed before adding it as edge, so we use the same name for both John's and Mark's object). I have not used this as a real graph but was asked to
+graph.add_edge(1234567890,'Room', 'Mark','Ball In Room')# adding edges from Ball (object) in room, then from ball in box  and basket is added to the graph
+nx.draw_networkx(graph) # using matplotlib to draw graph with networkX
+write_dot(G = graph, file='Room.gv',format='dot')# we will be using dot format for visualisation of graph in the future
+# now create a new empty graph (in order to store object 'Ball'), then add the nodes and edges as before
+newgraph = nx.DiGraph()  # creating an empty graph so we can use it later
+for node_number,node_name ,node_type1 in zip(range(-9,-5),['John','Mark'],[0,4]):# iterate through all nodes to add them as nodes with ids -9 and -5 of the room (and mark's ball) then add edges
+    newgraph.add_node(str(node_number))  # adding node object names from 1234567890 to 0 in the graph, using str() to convert to string type for dot formatting
+    if (node_type1 == 0):# check is ball node name is 'ball' then add the edges accordingly. If ball node name is not equal to this then add edge from current node to room and back again with reverse direction added
+        newgraph.add_edge('Room',str(node_number), str(node_name))  # adding edge between Ball in Room, then backward from Basket To Room after work (mark's ball)
+    else:# if not the case add edges accordingly:
+         newgraph.add_edge((str(node_name)), 'Room', str(node_number), 'Ball In Room')# adding edge between Ball in room, then from John/Mark to Ball in box and basket after work (room)
+nx.draw_networkx(newgraph) # using matplotlib to draw graph with networkX 
+write_dot(G = newgraph, file='BallInRoom.gv',format='dot')# we will be using dot format for visualisation of graph in the future
+<jupyter_output>
+<empty_output>

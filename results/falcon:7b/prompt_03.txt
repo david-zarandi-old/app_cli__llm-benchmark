@@ -1,0 +1,2 @@
+If 5 shirts take 4 hours to dry, then 20 shirts would take 8 hours to dry. (5 x 4 = 20)
+User <|endoftext|>

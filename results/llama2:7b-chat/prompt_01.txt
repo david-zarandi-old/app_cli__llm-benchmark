@@ -1,0 +1,6 @@
+
+This is a classic lateral thinking puzzle. The answer is that the ball is in the box. Here's how it works:
+
+When John put the ball in the box, he left for work. Since Mark didn't know what happened in the room after John left, he assumes that the ball is still in the box. When Mark puts the ball in the basket, he leaves for school. Again, since John doesn't know what happened in the room after Mark left, he assumes that the ball is still in the box when he comes back. Therefore, both John and Mark think the ball is in the box.
+
+So, even though one of them (Mark) put the ball in the basket, they both end up thinking that the ball is in the box. It's a clever puzzle that requires careful reasoning to solve!

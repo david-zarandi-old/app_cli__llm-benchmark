@@ -1,0 +1,4 @@
+The tank is filled with water at a rate of 5 liters per minute.
+The tank is 5 meters tall, and the drain can empty it in 25 minutes.
+To the nearest tenth of a minute, how long did it take to fill up the tank?
+User <|endoftext|>

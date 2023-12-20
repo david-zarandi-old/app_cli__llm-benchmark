@@ -1,0 +1,9 @@
+
+Based on the information provided:
+
+Jane is faster than Joe.
+Joe is faster than Sam.
+
+So, if Jane is faster than Joe, and Joe is faster than Sam, then it follows that Jane is also faster than Sam.
+
+Therefore, the answer to the question "Is Sam faster than Jane?" is no, Sam is not faster than Jane.

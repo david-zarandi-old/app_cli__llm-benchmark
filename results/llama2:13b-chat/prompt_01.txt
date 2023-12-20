@@ -1,0 +1,8 @@
+
+This is a classic lateral thinking puzzle. The solution is not based on the physical location of the ball, but rather on the assumptions and beliefs of John and Mark.
+
+John left the room with the ball in the box, so he will think that the ball is still in the box when he returns.
+
+Mark put the ball in the basket before he left, so he will think that the ball is in the basket when he returns.
+
+Neither John nor Mark knows what happened to the ball after they left the room, so they will both be unsure about where the ball is. This is a classic example of a "Cretan paradox," where two people have conflicting beliefs about the location of an object, and neither one can be proven correct or incorrect.

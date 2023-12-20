@@ -1,0 +1,9 @@
+  The time complexity of the given algorithm is O(n).
+
+Here's why:
+
+1. Base case: When `n` is less than 2, the function returns `n`, which takes constant time.
+2. Recursive cases: When `n` is greater than or equal to 2, the function calls itself with `n - 1` and `n - 2`. The time complexity of these two recursive calls is O(n) each, since they both have the same structure as the original function.
+3. Combining the recursive cases: Since we have two recursive calls, the total time complexity is O(n) + O(n) = O(2n) = O(n).
+
+Therefore, the time complexity of the given algorithm is O(n).

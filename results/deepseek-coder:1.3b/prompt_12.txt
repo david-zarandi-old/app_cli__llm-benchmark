@@ -1,0 +1,12 @@
+.
+<!--more-->
+### Solution: 
+```javascript
+const readline = require("readline").createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+var i;
+for (i=0; i < 100; i++){
+  console.log(i + 1);
+}```

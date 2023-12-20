@@ -1,0 +1,11 @@
+
+To determine the time complexity of the given algorithm, we need to analyze how the input size affects the number of operations performed.
+
+The algorithm starts with a base case where `n` is less than 2, in which case it returns `n`. In this case, the time complexity is O(1) because only one operation (a return statement) is performed regardless of the size of the input.
+
+For larger values of `n`, the algorithm recursively calls itself with `n - 1` and `n - 2` as arguments. The time complexity of these recursive calls can be analyzed as follows:
+
+* When `n - 1` is called, the algorithm performs at most `f(n - 1)` operations. Since `f` is defined recursively, this call will also have a time complexity of O(1) if `n - 1` is less than 2.
+* When `n - 2` is called, the algorithm performs at most `f(n - 2)` operations. Again, since `f` is defined recursively, this call will also have a time complexity of O(1) if `n - 2` is less than 2.
+
+Therefore, the overall time complexity of the given algorithm is O(1) for inputs less than 2, and O(log n) for larger inputs, where n is the size of the input.

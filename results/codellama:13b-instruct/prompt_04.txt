@@ -1,0 +1,15 @@
+
+The equation is: 25 - 4 * 2 + 3 = ?
+
+To solve this equation, we can follow the order of operations (PEMDAS):
+
+1. Parentheses: None
+2. Exponents (none in this case)
+3. Multiplication: 4 and 2
+4. Addition: 3
+
+So, the calculation is:
+
+(25 - 8) + 3 = 14 + 3 = 17
+
+Therefore, the answer to the equation is 17.

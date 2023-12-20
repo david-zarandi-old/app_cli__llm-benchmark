@@ -1,0 +1,12 @@
+
+The correct order is as follows:
+Sentence1: He was scared until he found out she was ok.
+Sentence2: One day Bruce was called to an accident scene.
+Sentence3: He was a police officer who handled traffic accidents.
+Sentence4: Bruce was called to an accident scene.
+Sentence5: He was called to an accident scene.
+Sentence6: Tanya's car was called to an accident scene.'''
+# In the given sentence 1 is first, second and so on for each sentences are in alphabetical order.
+sentences = [['He', 'was', 'scared'], ['until'], ['he', 'found', 'out']]
+for i, word in en
+    if (word[0]) < n:

@@ -1,0 +1,2 @@
+
+The time complexity of the above algorithm is O(2^n), where n is the input to the function. This is because the algorithm recursively calls itself twice for each call, and there are two possible paths for each recursive call. Therefore, the total number of recursive calls is 2^n, which grows exponentially with the size of the input.

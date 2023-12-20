@@ -1,0 +1,2 @@
+TDM 20 = TDM 5 * (4/1)
+TDM 20 = 8 hours

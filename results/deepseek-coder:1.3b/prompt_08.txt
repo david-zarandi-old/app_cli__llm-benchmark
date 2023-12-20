@@ -1,0 +1,25 @@
+",
+    "Jane is faster than Jane. Is Jane faster than Sam?",
+    "Jane is faster than Joe. Joe is faster than Sam. Is Sam faster than Jane?",
+];
+
+var question_2 = [
+    "What's the difference between an animal and a vegetable?",
+    "How do you describe a person with their favorite animal?",
+    "What's the difference between an animal and a vegetable?",
+    "What's the difference between an animal and a vegetable?",
+];
+
+var question_3 = [
+    "Where are eggs in a house?",
+    "How do you describe a person with their favorite animal?",
+    "How do you describe a person with their favorite animal?",
+    "What's the difference between an animal and a vegetable?",
+];
+
+var question_4 = [
+    "How many people are there in a house?",
+    "What's the difference between an animal and a vegetable?",
+    "How do you describe a person with their favorite animal?",
+    "Where are eggs in a house?",
+];

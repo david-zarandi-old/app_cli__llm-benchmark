@@ -1,0 +1,18 @@
+
+Let's first analyze the problem:
+
+The inlet pipe can fill the tank in 25 minutes, which means the rate at which the water is entering the tank is $1/25$.
+
+The drain of the tank can empty it in 55 minutes, which means the rate at which the water is leaving the tank is -$1/55$.
+
+When the drain was left open by mistake, the tank filled up to full capacity. Since the mistake was not caught until the tank was full, we know that the time it took to fill the tank is equal to the time it took to empty the tank: $55 minutes$.
+
+So, the rate at which the water was entering the tank is:
+
+$$1/25 = 4\times(1/55)$$
+
+To find the time it took to fill the tank, we can divide the rate of filling by the rate of emptying:
+
+$$\frac{1}{25} \div \frac{-1}{55} = \boxed{4 minutes}$$
+
+Therefore, it took $4$ minutes to fill the tank.

@@ -1,0 +1,2 @@
+
+The time complexity of this algorithm is O(log n). It follows the recursive structure of a binary search tree, where each node has two children and the total number of nodes in the tree grows approximately linearly with n. The base case occurs when n < 2, which happens logarithmically often. Therefore, the overall time complexity is dominated by the recursive calls to f(n - 1) and f(n - 2), each of which takes O(log n) time. Since the total number of recursive calls grows linearly with n, the time complexity of this algorithm is O(log n).

@@ -1,0 +1,17 @@
+</p>
+<div class="hint"><p>I have a ball. How does it move? (Hint: You need to know how the microwave works!) </p></div>
+  <p id="text"> </p>
+  
+    
+    <a href="/assets/solution_2637f5d8b1e90ff4c3ef.html" class="answer" >Correct</a>
+    <br />
+      <a href="/assets/wrong-answers-eeecedfcacfa9debfba.html" class="wrong" >Wrong</a>
+    
+        <hr id="hr127548063e9f5d5b4c54" />
+      
+      <a href="/assets/solution-cbacfc2fdbfddffbc6.html" class="next">Next</a>
+    
+    
+
+  </body>
+</html>

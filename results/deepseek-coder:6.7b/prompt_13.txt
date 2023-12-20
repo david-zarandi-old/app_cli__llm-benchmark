@@ -1,0 +1,9 @@
+The given algorithm is a recursive implementation of the Fibonacci sequence. 
+
+This function `f(n)` makes two recursive calls, each with one less argument than the previous call (i.e., `f(n - 1)` and `f(n - 2)`). This is a characteristic feature of many recurrence relations such as Fibonacci sequence where it involves summing up n-1 and n-2 elements to get nth element in the sequence.
+
+For each call, we perform constant work (return statement), so the time complexity can be represented by O(1). 
+
+However, because there are two recursive calls for every function invocation, we're essentially doing a binary tree traversal where each node is visited twice - once during the left subtree and once during the right subtree. In terms of number of steps (or nodes in this case), it would be 2^n, because each call splits into two new calls with one less argument until we hit the base cases.
+
+So, in Big O notation, we'll express our time complexity as: T(n) = O(2^n). However, since we only care about the highest order term and drop constants (O(1) is same as O(c), where c is a constant), it simplifies to O(2^n).

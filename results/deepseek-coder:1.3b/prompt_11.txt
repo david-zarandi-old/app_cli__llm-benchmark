@@ -1,0 +1,12 @@
+</p>
+ 	<hr /> 
+ 	 <img src="https://www.wow-world.com/wp-content/uploads/2018/07/The_Pirates_-_A_Tale_Of_Two_Ships__Watermelon,%E2%80%93%C2%A0and_Blood_Foam.jpg" alt="" />
+ 	 <hr /> 
+ 	<p class="quote">“One day I found myself in an ocean, and there was a small group of people. There were just two of them, but it had to be one of them. The other was the captain. His voice was very powerful and his face was very grim. He was so beautiful that he had no eyes at all. It seemed to me that this was a story about the captain.”</p>
+ 	<hr /> 
+ </div>
+  	    
+  <script type="text/javascript" src="./assets/js/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="./assets/js/app.js"></script>
+</body>
+</html>

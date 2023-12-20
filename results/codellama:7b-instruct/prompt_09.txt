@@ -1,0 +1,5 @@
+  To calculate the average speed, we need to divide the distance by the time.
+
+Average Speed = Distance / Time
+= 480 km / 6 hours
+= 80 km/hour

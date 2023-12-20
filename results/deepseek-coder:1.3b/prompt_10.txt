@@ -1,0 +1,8 @@
+
+<jupyter_code>
+# Your code here:
+
+tank_minutes = (25*60)/(18/3)
+print("This would take", tank_minutes, "minutes to fill up the tank")
+<jupyter_output>
+This would take 4.7 minutes to fill up the tank

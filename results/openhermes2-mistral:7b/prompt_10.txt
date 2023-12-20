@@ -1,0 +1,6 @@
+The inlet pipe can fill the tank in 25 minutes, so it fills 1/25 of the tank's volume in one minute.
+The drain can empty the tank in 55 minutes, so it empties 1/55 of the tank's volume in one minute.
+When the drain was left open by mistake, it was continuously emptying the tank at a rate of 1/55 of its volume per minute.
+Since the tank was full when the mistake was discovered, the time it took to fill up the tank must have been equal to the time it took to empty it using the inlet pipe.
+Therefore, it took 25 minutes to fill up the tank.
+To the nearest tenth of a minute, 25 minutes is already the answer.

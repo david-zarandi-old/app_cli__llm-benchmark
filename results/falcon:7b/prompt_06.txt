@@ -1,0 +1,5 @@
+- There are three killers in the room.
+- One of the killers is dead, so there are two remaining.
+- Since no one leaves the room, it can be assumed that the remaining killer is the one who entered.
+- Therefore, the number of killers in the room is 2.
+User <|endoftext|>

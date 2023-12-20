@@ -1,0 +1,6 @@
+ Egy Node.js program, which prints 1 through 100 using `process.stdout`:
+```
+for (let i = 1; i <= 100; i++) {
+    process.stdout.write(`${i}\n`);
+}
+```

@@ -1,0 +1,6 @@
+
+This is a classic lateral thinking puzzle. The answer is 3, but the reasoning is different than you might expect.
+
+The key to solving this puzzle is to understand that the phrase "Nobody leaves the room" means that no one enters or exits the room during the event. Therefore, when someone enters the room and kills one of the killers, there are still two killers remaining in the room.
+
+So, while it may seem counterintuitive that there are three killers in the room, the reasoning is based on the fact that no one leaves the room, so everyone who started with the three killers is still present and accounted for.

@@ -1,0 +1,26 @@
+```python
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+    def action(self, location_from, location_to, object):
+        if location_from == 'box' and location_to == 'basket':
+            print(f"{self.name} thinks the {object} is in their {location_to}.")
+        elif location_from == 'box' and location_to == 'room':
+            print(f"{self.name} thinks the {object} is still in their {location_from}.")
+        else:
+            print("The action is not recognized.")
+
+john = Person('John')
+mark = Person('Mark')
+
+# John's actions
+john.action('box', 'basket', 'ball')  # John thinks the ball is in their basket.
+john.action('basket', 'room', 'ball')  # John thinks the ball is still in their box.
+
+# Mark's actions
+mark.action('box', 'room', 'ball')  # Mark thinks the ball is still in their box.
+mark.action('basket', 'room', 'ball')  # Mark thinks the ball is in their basket.
+```
+
+This Python program uses a class to represent each person (John and Mark). The Person class has an action method that takes as parameters the location where they left the object, the location they are going to leave it, and the object they are leaving. Based on these inputs, the action method prints out what John or Mark thinks about the ball's location.

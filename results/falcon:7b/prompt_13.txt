@@ -1,0 +1,2 @@
+Mini The time complexity of the algorithm is O(2^n), as it involves recursion.
+User <|endoftext|>

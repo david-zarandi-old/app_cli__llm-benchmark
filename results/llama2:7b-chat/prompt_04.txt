@@ -1,0 +1,9 @@
+
+To evaluate the expression `25 - 4 * 2 + 3`, we can follow the order of operations (PEMDAS):
+
+1. Parentheses: inside the parentheses we have `4 * 2 = 8`
+2. Exponents (none in this case)
+3. Multiplication and division (from left to right) `4 * 2 = 8`, then `8 - 4 = 4`
+4. Addition and subtraction (from left to right) `4 + 3 = 7`
+
+Therefore, the final result is `7`.

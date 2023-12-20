@@ -1,0 +1,2 @@
+
+If it takes 4 hours to dry 5 shirts in the sun, then it will take half that time, or 2 hours, to dry 10 shirts (5 x 0.4 = 2). Therefore, it will take 4 hours to dry 20 shirts (20 x 0.4 = 8).

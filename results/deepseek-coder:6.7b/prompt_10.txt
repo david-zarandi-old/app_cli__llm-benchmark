@@ -1,0 +1,8 @@
+```python
+# The time it takes to drain the tank in minutes is subtracted from the total time taken to fill up the tank.
+total_time = 25  # Total time to fill up the tank in minutes
+drain_time = 55  # Time it takes to drain the tank in minutes
+fill_up_time = total_time - drain_time
+print(f"The mistake was made {fill_up_time} minutes after filling up.")
+```
+This program calculates and prints out how long after filling up the tank, the mistake was made.

@@ -1,0 +1,6 @@
+The first statement is true because Joe is faster than Sam. 
+
+The second statement is also true because Sam is faster than Joe. 
+
+The third statement is not true because Jane is faster than Joe.
+User <|endoftext|>

@@ -1,0 +1,4 @@
+
+  * a = 1 + 2 - 5 * 4 / 2 + 3 = ? (a is the answer)
+* ```pow(b, c)```: b^c. e.g. ```pow(2, 8) = 2^8 = 256```
+* ``if a == True`` or ``if a != False`` -> use in if-else statements

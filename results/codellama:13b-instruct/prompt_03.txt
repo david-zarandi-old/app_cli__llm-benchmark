@@ -1,0 +1,6 @@
+
+If it takes 4 hours to dry one shirt, and there are 20 shirts in total, then it would take:
+
+4 hours/shirt x 20 shirts = 80 hours
+
+So, it would take 80 hours to dry all 20 shirts.

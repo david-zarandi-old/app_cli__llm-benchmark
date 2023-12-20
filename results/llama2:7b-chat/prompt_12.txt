@@ -1,0 +1,22 @@
+```
+const process = require('process');
+
+for (let i = 1; i <= 100; i++) {
+  console.log(i);
+}
+```
+Explanation:
+
+* `require` is used to import the `process` module.
+* `for` loops from 1 to 100, and inside the loop, the `console.log()` function is called with the current iteration variable `i`.
+* The `console.log()` function writes the value of `i` to the console.
+
+Note: This algorithm will print each number on a new line, so you will see 100 separate lines of output in your console. If you want to print the numbers on the same line, you can modify the algorithm to use `console.log()` once for all the numbers, like this:
+```
+const process = require('process');
+let i = 1;
+console.log(`1-100`);
+for (let i = 1; i <= 100; i++) {
+  console.log(i);
+}
+```

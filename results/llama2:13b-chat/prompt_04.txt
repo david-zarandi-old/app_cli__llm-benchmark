@@ -1,0 +1,14 @@
+
+Okay, let's work through this together!
+
+25 - 4 * 2 + 3 = ?
+
+First, let's calculate the multiplication:
+
+4 * 2 = 8
+
+Now, let's add 3 to that result:
+
+8 + 3 = 11
+
+So, 25 - 4 * 2 + 3 is equal to 11.

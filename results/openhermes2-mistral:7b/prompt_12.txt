@@ -1,0 +1,27 @@
+Here's a simple algorithm in Node.js that prints numbers 1 through 100 using the `process.stdout` module:
+
+```javascript
+for (let i = 1; i <= 100; i++) {
+  process.stdout.write(`${i}\n`);
+}
+```
+
+You can run this code in a Node.js environment or in a JavaScript file with a `node` command:
+
+```bash
+$ node print_numbers.js
+```
+
+This will output the numbers 1 through 100 on the console:
+
+```
+1
+2
+3
+4
+5
+...
+98
+99
+100
+```
