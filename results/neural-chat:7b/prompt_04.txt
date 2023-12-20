@@ -1,0 +1,4 @@
+ First, perform the multiplication: 25 * 4 = 100
+Next, multiply this result by 2 and add it to the remaining terms: (100 * 2) + 3 = 207
+Finally, combine all terms: 25 - 4 * 2 + 3 = 25 - 8 + 3 = 32
+So, the final result is 32.

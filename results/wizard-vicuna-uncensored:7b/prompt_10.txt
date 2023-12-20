@@ -1,0 +1,10 @@
+Let x be the time taken to fill up the tank.
+From the inlet pipe, it takes 25 minutes to fill the tank.
+And from the drain, it takes 55 minutes to empty the tank.
+We know that the mistake was not caught until the tank was full.
+Therefore, we can write:
+x + (time taken to fill up the tank when the mistake was made) = 100 minutes (since the tank is full)
+Simplifying this equation, we get:
+2x = 100 - 55
+x = 45
+To the nearest tenth of a minute, it took 45 minutes to fill up the tank.

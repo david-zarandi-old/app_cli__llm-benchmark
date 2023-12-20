@@ -1,0 +1,1 @@
+ There are still three killers in the room. When someone enters the room and kills one of the killers, there would initially be four people in the room (the person who entered and the three killers). However, since nobody leaves the room, it means that the person who entered is also considered a killer, making the total number of killers still three.

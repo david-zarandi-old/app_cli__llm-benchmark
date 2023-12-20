@@ -1,0 +1,1 @@
+There are three killers in a room. Someone enters the room and kills one of them. Nobody leaves the room. How many killers are in the room?

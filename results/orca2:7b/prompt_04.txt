@@ -1,0 +1,13 @@
+Given:
+25 - 4 * 2 + 3 = ?
+
+Goal: to simplify the expression and find the value of ?
+
+Steps:
+- Use the order of operations (PEMDAS) to solve the expression. Start with the parentheses, if any.
+- There are no parentheses in this expression, so move on to the next step, which is exponents. There are no exponents in this expression, so move on to multiplication and division, from left to right.
+- Multiply 4 by 2: 4 * 2 = 8
+- Subtract 8 from 25: 25 - 8 = 17
+- There are no more steps in this expression, so the final answer is 17.
+
+### Final answer: 17

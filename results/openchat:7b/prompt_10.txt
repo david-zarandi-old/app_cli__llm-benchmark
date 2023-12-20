@@ -1,0 +1,46 @@
+ Let the rate at which water enters the tank be x and the rate at which water exits the tank be y. We know that 
+
+x - y = 1/25 (since it takes 25 minutes to fill the tank)
+y = 1/55 (since it takes 55 minutes to empty the tank)
+
+Substituting the value of y in the first equation, we get:
+
+x - 1/55 = 1/25
+
+Adding 1/55 to both sides, we get:
+
+x = 1/25 + 1/55
+
+To find a common denominator, we can use the least common multiple of 25 and 55, which is 550.
+
+x = (22 * 550) / 550 + (11 * 550) / 550
+
+x = 22/550 + 11/550
+
+x = 33/550
+
+Now, to find the time it takes to fill up the tank, we can use the formula:
+
+Time = 1 / (x - y)
+
+Substituting the values of x and y, we get:
+
+Time = 1 / ((33/550) - (1/55))
+
+Time = 1 / (33/550 - 10/55)
+
+To find a common denominator, we can use 550.
+
+Time = 1 / ((33 * 11) / (550 * 11) - (10 * 550) / (550 * 11))
+
+Time = 1 / ((363/550) - (5500/550))
+
+Time = 1 / ((363 - 5500) / 550)
+
+Time = 1 / (-5137 / 550)
+
+Now, we can find the time by taking the reciprocal of this fraction:
+
+Time = -5137 / 550
+
+To the nearest tenth of a minute, the time it takes to fill up the tank is approximately 9.3 minutes.

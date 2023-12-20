@@ -1,0 +1,4 @@
+Let's assume that David drives at a constant speed. 
+If he wants to reach his friend's house in 6 hours, then his average speed should be:
+distance/time = 480 kilometers / 6 hours = 78.3 km/h (or 52.1 mph)
+Therefore, David needs to drive at an average speed of 52.1 miles per hour in order to reach his friend's house in 6 hours.

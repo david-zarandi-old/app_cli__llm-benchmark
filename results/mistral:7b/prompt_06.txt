@@ -1,0 +1,1 @@
+ Initially, there were three killers in the room. One of them was killed, so now there are two killers remaining in the room.

@@ -1,0 +1,8 @@
+Let $x$ be the time it took to fill up the tank. 
+Since the inlet pipe can fill the tank in 25 minutes, we have that $\frac{1}{x}=\frac{1}{25}$. 
+Since the drain of the tank can empty the tank in 55 minutes, we have that $\frac{1}{x+55}=\frac{1}{60}$. 
+Multiplying these two equations together gives us \[
+\frac{1}{(x)(x+55)}=\frac{1}{25}\cdot\frac{1}{60}.
+\] Simplifying the right side, we have $\frac{1}{x(x+55)}=\frac{1}{15}$. 
+Cross-multiplying gives us $15=x$, so it took $\boxed{\textcolor{red}{9.4}}$ minutes to fill up the tank.
+The answer is: 9.4

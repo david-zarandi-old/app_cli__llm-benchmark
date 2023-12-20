@@ -1,0 +1,5 @@
+ First, let's find the combined time to fill and drain the tank. The inlet pipe fills the tank in 25 minutes and drains it in 55 minutes. When left open by mistake, the tank will be filled and then emptied for a total of 25 + 55 = 80 minutes (or 80/60 = 1 hour, 20 minutes).
+
+Now, we need to find out how long it would take normally without the drain accident. The time taken by inlet pipe and the time taken by the drain add up to 80 minutes in total when combined. So, if they are filled separately, one of them should fill or drain in half this amount (40 minutes).
+
+Since the inlet fills the tank and the drain empties it, we'll take the smaller amount from the drain to account for filling up the tank normally. This means it would take 40 minutes without the mistake.

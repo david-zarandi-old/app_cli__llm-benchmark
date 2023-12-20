@@ -1,0 +1,13 @@
+
+To solve the problem, we will follow the order of operations (PEMDAS/BODMAS), which stands for Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction. The operations should be evaluated in this order.
+
+Given expression: 25 - 4 * 2 + 3
+
+Step 1: No parentheses or exponents are present, so we move to Step 2.
+
+Step 2: Perform multiplication and division from left to right.
+- First, multiply: 4 * 2 = 8
+	8 / 1 (integer division) = 8
+- Now, perform the addition: 25 - 8 + 3
+
+Step 3: No more operations in the expression. The correct answer should be 8.

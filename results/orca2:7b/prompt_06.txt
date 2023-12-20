@@ -1,0 +1,3 @@
+The problem states that there are three killers in a room initially. Then, someone enters the room and kills one of them. The person who entered the room is not counted as a killer. It's important to note that nobody leaves the room after this event. Therefore, if we subtract the number of killers that were killed (one) from the initial number of killers (three), we get 3 - 1 = 2. So, there are still two killers in the room.
+
+### Final answer: There are still two killers in the room.

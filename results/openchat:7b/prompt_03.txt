@@ -1,0 +1,11 @@
+ To determine how long it would take to dry 20 shirts, we can set up a proportion based on the given information:
+
+5 shirts : 4 hours = 20 shirts : x hours
+
+Let's solve for x:
+
+(5/4) * x = 20
+x = (20 * 4) / 5
+x = 16
+
+So, it would take 16 hours to dry 20 shirts.

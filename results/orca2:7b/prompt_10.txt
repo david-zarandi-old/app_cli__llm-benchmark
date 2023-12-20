@@ -1,0 +1,39 @@
+Given:
+- The inlet pipe can fill the tank in 25 minutes
+- The drain can empty the tank in 55 minutes
+- The mistake was not caught until the tank was full
+
+Goal: Find the time it took to fill up the tank to the nearest tenth of a minute
+
+Steps:
+- Let x be the time (in minutes) that the inlet pipe was working alone
+- Then the drain was open for (65 - x) minutes
+- The total volume of water in the tank is equal to the product of the filling rate and the time
+- The filling rate is 1/25, since the inlet pipe can fill the tank in 25 minutes
+- The emptying rate is 1/55, since the drain can empty the tank in 55 minutes
+- Using the conservation of water principle, we have:
+
+(1/25) * x = (1/55) * (65 - x)
+
+- To solve for x, we multiply both sides by the least common multiple of 25 and 55, which is 55 * 25 = 1375
+- We get:
+
+x * 55 = (1/55) * 65 - x * 25
+
+- Simplifying, we have:
+
+55x = 85 - 25x
+
+- Adding x to both sides, we get:
+
+79x = 85
+
+- Dividing by 79, we get:
+
+x = 85 / 79
+
+- Rounding to the nearest tenth of a minute, we get:
+
+x = 1.09
+
+### Final answer: It took 1.09 minutes to fill up the tank.

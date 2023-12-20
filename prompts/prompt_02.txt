@@ -1,0 +1,9 @@
+In this task, you're given a short story of five sentences written in natural language. However, the order of the
+given story is not correct. Your job is to return the correct order for the given sentences to create a coherent short
+story with the new order that has the correct flow. Generate your answer using the number of sentences in the correct
+order, such as '23415'.
+Sentence1: He was scared until he found out she was ok.
+Sentence2: He usually saw really bad accidents and it always unnerved him.
+Sentence3: One day Bruce was called to an accident scene.
+Sentence4: Bruce was a police officer who handled traffic accidents.
+Sentence5: He immediately recognized his friend Tanya's car.

@@ -1,0 +1,5 @@
+To find the average speed, we need to divide the total distance by the total time.
+The formula for average speed is: Average Speed = Distance ÷ Time
+In this case, David has to cover a distance of 480 kilometers in 6 hours.
+So, his average speed = 480 km ÷ 6 h
+Calculating this, we find that David's average speed should be 80 km/h.

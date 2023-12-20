@@ -1,0 +1,24 @@
+
+Let's denote the inlet pipe's rate of filling as R and the drain's rate of emptying as D. We can set up two equations based on the given information:
+
+1) R + D = 25 (the sum of the rates takes 25 minutes to fill the tank)
+2) R - D = 55 (the difference between the rates takes 55 minutes to empty the tank)
+
+We want to find the time it took to fill up the tank, which is equal to D. To do this, we can solve equations 1 and 2 simultaneously for D:
+
+(R + D = 25) => D = 25 - R (equation 1)
+(R - D = 55) => D = 55 - R (equation 2)
+
+Now, we will substitute the expression for D from equation 1 into equation 2:
+
+(25 - R) = 55 - R
+
+Combine the constants:
+
+-30 + R = 55 - R
+
+Move the R term to the other side:
+
+30 = R
+
+So, it took 30 minutes for the tank to fill up after the drain was left open by mistake.

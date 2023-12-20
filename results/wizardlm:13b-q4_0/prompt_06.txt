@@ -1,0 +1,2 @@
+
+There are still three killers in the room. The person who entered the room and killed one of the murderers is now also a killer, so the total number of killers remains at three.

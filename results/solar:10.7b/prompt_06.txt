@@ -1,0 +1,1 @@
+Initially, there were 3 killers in the room. When someone enters and kills one of them, there are now 2 killers and the newcomer. Nobody leaves the room, so there are still 2 killers and 1 newcomer (who is not a killer). In total, there are 3 people in the room, but only 2 of them are considered to be killers.

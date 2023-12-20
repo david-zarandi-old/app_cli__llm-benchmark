@@ -1,0 +1,11 @@
+ To solve this expression, we need to follow the order of operations (PEMDAS/BODMAS): Parentheses/Brackets, Exponents/Orders, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). 
+
+25 - 4 * 2 + 3 = ?
+
+First, we perform the multiplication:
+25 - 8 + 3
+
+Next, we perform the addition and subtraction from left to right:
+17 + 3 = 20
+
+Therefore, the answer is 20.

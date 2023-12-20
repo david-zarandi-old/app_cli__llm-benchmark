@@ -1,0 +1,19 @@
+ To find the time it took to fill up the tank, we need to determine how long the drain was left open accidentally. We know that the inlet pipe takes 25 minutes to fill the tank and the drain takes 55 minutes to empty it.
+
+Since the mistake was not discovered until the tank was full, this means that the water level in the tank did not change during the period when the drain was left open. Therefore, during this time, the water was being added to the tank at a rate that matched the rate at which it was draining out.
+
+To find the length of time that the drain was left open, we can set up an equation:
+
+Rate of filling = Rate of draining
+Inlet pipe = Drain
+25 minutes = x + 55 minutes
+
+Subtracting 25 minutes from both sides, we get:
+x = 30 minutes
+
+So the drain was left open for 30 minutes. To find the total time it took to fill up the tank, add the length of time that the drain was accidentally left open to the usual filling time:
+
+Total time = Filling time + Accidentally drained time
+Total time = 25 minutes + 30 minutes = 55 minutes.
+
+Therefore, it took approximately 55 minutes (to the nearest minute) to fill up the tank.

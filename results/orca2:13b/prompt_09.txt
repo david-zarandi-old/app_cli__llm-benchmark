@@ -1,0 +1,14 @@
+Given:
+- Distance to the friend's house is 480 kilometers
+- Time to travel is 6 hours
+
+Goal: Find the average speed David has to drive at
+
+Steps:
+- To find the average speed, we need to divide the distance by the time
+- Average speed = distance / time
+- Substitute the given values into the formula
+- Average speed = 480 km / 6 h
+- Simplify the fraction by dividing both numerator and denominator by 12
+- Average speed = 40 km / h
+### Final answer: David has to drive at 40 km/h

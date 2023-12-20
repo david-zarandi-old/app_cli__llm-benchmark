@@ -1,0 +1,7 @@
+The correct order for the sentences is: 35142. 
+
+Explanation: 
+1. Sentence5 provides the context that Bruce recognized Tanya's car at the accident scene.
+2. Sentence3 introduces the situation where Bruce was called to an accident scene as a police officer.
+3. Sentence2 explains why he was scared until he found out she was okay, stating that he usually sees bad accidents and it always unnerves him.
+4. Finally, Sentence1 starts the story with "He was scared until he found out she was ok," which sets up the situation where Bruce is on a traffic accident call and encounters his friend Tanya's car.

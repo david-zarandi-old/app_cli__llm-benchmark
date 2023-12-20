@@ -1,0 +1,13 @@
+First, we perform the multiplication: 
+4 * 2 = 8
+
+Now we have:
+25 - 8 + 3
+
+Next, we perform the subtraction:
+25 - 8 = 17
+
+Finally, we perform the addition:
+17 + 3 = 20
+
+So the final calculation is 20.

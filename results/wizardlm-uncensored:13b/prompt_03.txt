@@ -1,0 +1,16 @@
+
+We can use a proportion to solve this problem:
+
+Number of hours to dry 20 shirts : Number of hours to dry 5 shirts = Amount of time for 20 shirts : Amount of time for 5 shirts
+
+Let's call the amount of time it takes to dry 20 shirts "x". Then we can set up the following proportion:
+
+x : 4 = 20 : 5
+
+Now we need to solve for "x". We can do this by cross-multiplying and simplifying:
+
+x \* 4 = 20 \* 5
+
+36 = 100
+
+Therefore, it would take 3.6 hours (or approximately 4 hours) to dry 20 shirts if it takes 4 hours to dry 5 shirts in the sun.

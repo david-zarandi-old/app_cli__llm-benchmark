@@ -1,0 +1,15 @@
+Given:
+- 5 shirts take 4 hours to dry in the sun
+- The rate of drying is proportional to the number of shirts
+
+Goal: Find how long 20 shirts would take to dry
+
+Steps:
+- Let x be the time (in hours) for 20 shirts to dry
+- We can set up a proportion using the given information
+- 5/4 = 20/x
+- Cross-multiply and solve for x
+- 5x = 80
+- x = 80/5
+- x = 16
+### Final answer: 16 hours

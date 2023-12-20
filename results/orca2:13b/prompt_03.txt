@@ -1,0 +1,14 @@
+Given:
+- 5 shirts take 4 hours to dry in the sun
+- We want to know how long it takes for 20 shirts to dry
+
+Goal: Find the time needed for 20 shirts to dry
+
+Steps:
+- Assume that each shirt dries at the same rate, regardless of the number of shirts
+- Let x be the time needed for one shirt to dry in the sun
+- Then, 5x is the time needed for 5 shirts to dry, and 20x is the time needed for 20 shirts to dry
+- Use the given information to set up an equation: 5x = 4
+- Solve for x by dividing both sides by 5: x = 4/5
+- Substitute x into 20x to find the time needed for 20 shirts to dry: 20x = 20(4/5) = 16
+### Final answer: It takes 16 hours for 20 shirts to dry in the sun.

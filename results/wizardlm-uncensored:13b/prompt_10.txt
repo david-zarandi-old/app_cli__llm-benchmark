@@ -1,0 +1,19 @@
+Let's call the volume of water in the tank at the end "V".
+The inlet pipe can fill the tank in 25 minutes, so the rate at which it fills the tank is 1/25 of the tank's volume per minute.
+The drain can empty the tank in 55 minutes, so the rate at which it empties the tank is 1/55 of the tank's volume per minute.
+If the drain was left open when the tank was being filled, then the rate at which water flows out of the tank is 1/55 of the tank's volume per minute.
+We can set up an equation to relate the rate at which the tank is filled and the rate at which water flows out of the tank:
+rate inlet = rate outflow
+1/25 V / min = 1/55 V / min
+V / 25 = V / 55
+V = (25 \* V) / 55
+V = 4.55 * V
+The volume of the tank at the end is equal to the volume of water that was in the tank when the mistake was made, plus the volume of water that flowed into the tank while the drain was open. We can find the volume of water that flowed into the tank by setting up another equation:
+rate inlet * time = rate outflow * time
+1/25 V / min * time = 1/55 V / min * time
+time = (1/25) / (1/55) V
+time = 4.55 V
+The volume of water that flowed into the tank is equal to the rate at which the tank was filled multiplied by the time it took to fill the tank, which is 4.55 V.
+Therefore, the total volume of water in the tank at the end is:
+V + 4.55 V = 5.55 V
+To the nearest tenth of a minute, it took 5.55 minutes to fill up the tank.

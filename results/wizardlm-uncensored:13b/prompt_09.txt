@@ -1,0 +1,10 @@
+To find the average speed, we need to divide the total distance by the total time. 
+
+Distance: 480 kilometers 
+Time: 6 hours 
+
+Average speed = distance / time 
+Average speed = 480 km / 6 hours 
+Average speed = 80 km/h 
+
+Therefore, David has to drive at an average speed of 80 km/h to reach his friend's house in 6 hours.

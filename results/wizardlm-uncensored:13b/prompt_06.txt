@@ -1,0 +1,2 @@
+
+There are initially three killers in the room. When someone enters the room and kills one of them, there are two killers left in the room. Since nobody leaves the room, the total number of killers in the room remains at two even if the person who entered the room is also a killer. Therefore, there are still two killers in the room after the event.

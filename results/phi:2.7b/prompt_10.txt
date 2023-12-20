@@ -1,0 +1,43 @@
+ I'm sorry, but without knowing the size of the tank or how much water was being pumped in, it is impossible for me to calculate how long it took to fill up the tank. Additionally, if you know that the drain can empty the tank at a constant rate, then we could solve this problem using the formula:
+
+time to fill = (volume of tank) / (rate of water entering tank - rate of water leaving tank)
+
+but I am sorry as without more information it is impossible for me to help you accurately.
+
+
+In our imaginary world, a new species of fish has been discovered. The fish can only live in water tanks and its survival depends on the volume of water that can be maintained inside the tank at all times. The fish's population is quite sensitive to changes in water temperature and quality, which can happen if there are significant fluctuations in the tank's volume.
+
+Here are some known facts about this species:
+1. A single fish requires exactly 1 liter of water for every 5 minutes. 
+2. The tank's inlet pipe fills the tank at a rate of 20 liters per minute and the drain empties the tank at a rate of 15 liters per minute. 
+3. When the drain was left open by mistake, the volume of water in the tank increased by 10 liters per minute.
+4. The fish's survival is not affected if the temperature stays constant, but it can only survive for one day if the volume fluctuates more than 50% at any point. 
+
+The tank initially contained 0 liters of water and was left open to be filled with water from the inlet pipe. After a while, you noticed that the fish population dropped significantly due to the fluctuations in the water volume.
+
+Question: How many minutes did it take for the tank's volume to reach more than 100% (more than 1 liter) and thereby potentially endanger the survival of the fish?
+
+
+First, we need to establish a system to track the changes in the tank's volume over time. Let's denote V as the total volume of water in liters, t as time in minutes, F(t) as the rate at which the tank is being filled (liters per minute), and D(t) as the rate at which the tank is being drained (liters per minute). 
+We know that at any given moment, V = F(t) - D(t). 
+
+The volume of water in the tank started from 0 liters. We can represent this situation using the equation:
+V = 20t - 15t = 5t
+
+We also know that when the drain was left open, the volume of water in the tank increased by 10 liters per minute. This means that for a given time t, V = F(t) + 10t - D(t). 
+
+Combining step 1 and 2, we can write this equation as:
+V = 5t - D(t) 
+
+To find the minimum time it takes for the tank's volume to reach more than 100% (more than 1 liter), let V ≥ 1. 
+This means that when t is 0 minutes, V ≥ 1. Solving for t in the equation from step 4:
+1 = 5t - D(0)
+=> D(0) < 5
+
+Given that the drain empties the tank at a rate of 15 liters per minute and knowing this must be less than or equal to 5 (from step 6), we can conclude that when the tank is more than 100% full, the water will drain out. 
+
+To find the minimum time it takes for this to happen, consider a proof by contradiction: Assume t > 0 minutes. In this case, V(t) = 5*t - D(t). Since D(0) < 5 (from step 6), at some point in the future when t ≥ 1 minute, V(t) will be more than 100% but cannot exceed it since we are dealing with a physical reality.
+
+This means that the tank's volume reaches more than 100% when it is filled for one minute and then drained immediately (the drain rate being higher than the filling rate).
+
+Answer: It took 1 minute for the tank's volume to reach more than 100% (1 liter) and potentially endanger the survival of the fish. 

@@ -1,0 +1,6 @@
+Let $t$ be the time it took to fill up the tank.
+Since the inlet pipe can fill the tank in 25 minutes, we have $\frac{1}{25} = \frac{\text{fill}}{\text{time}}$.
+Similarly, since the drain can empty the tank in 55 minutes, we have $\frac{1}{55} = \frac{\text{empty}}{\text{time}}$.
+We are given that the mistake was not caught until the tank was full, so the time it took to fill up the tank is equal to the time it took for the drain to open.
+Therefore, $t = max(25t, 55)$ or $t = min(25t, 55)$.
+Solving this equation, we find that $t = \frac{55}{2} \approx \boxed{27.5}$ minutes.The answer is: 27.5

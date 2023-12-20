@@ -1,0 +1,24 @@
+ Assuming that the drying rate is constant and each shirt takes the same amount of time to dry, we can find out how long it takes for 20 shirts to dry by finding out how many sets of 5 shirts can be dried in 4 hours and then multiplying that number by the drying time for one set.
+
+First, let's determine how many sets of 5 shirts can be dried in 4 hours:
+
+Number of sets = Total number of shirts / Shirts per set
+                      = 5 shirts / shirt set
+                      = 4 hours * (number of shirt sets per hour)
+
+Let x represent the number of shirt sets that can be dried in an hour. Then, we have:
+
+4 hours = 5 shirts / x
+
+To find x, we can cross-multiply and solve for x:
+
+x = 5 shirts * (1 hour) / 4 hours
+    = 5 shirts / 2 shirts per hour
+    ≈ 2.5 shirt sets per hour
+
+Since we cannot have a fraction of a set, it takes approximately 3 hours to dry one full set of 5 shirts. So, the total drying time for 20 shirts is:
+
+Drying time = Number of sets * Drying time per set
+                 = (Total number of shirts / Shirts per set) * Drying time per shirt set
+                 = (20 shirts / 5 shirts) * 3 hours/shirt set
+                 ≈ 6 hours.

@@ -1,0 +1,27 @@
+ I don't have access to the laws of physics on earth or any specific scenario you're referring to. however, in general terms, if a cup is placed upside down on a table and then lifted up from inside the cup and put back into the microwave, it would be difficult for the marble to stay in place while moving around inside the cup as it's rotating due to the microwave's movement. thus, it may roll around or move out of the cup. ultimately, whether the ball remains in the cup depends on its weight, size, and the degree of rotation caused by the microwave's movement.
+
+
+Imagine you're a robotics engineer who has been tasked with creating an automated robotic system that can play a game similar to ping pong using marbles instead of traditional sports equipment. This system should follow the same rules as described in the above conversation: A ball is put into a cup, then the cup is placed upside down on a table, someone lifts up the cup and puts it inside the microwave, and finally, the ball moves around due to the movement inside the cup.
+
+The robot you've designed has three modes of operation: 
+1. Normal mode where the system follows regular laws of physics and the marble does not move in the cup when the cup is placed upside down on a table.
+2. Unexpected mode, where an unexpected event occurs inside the cup causing it to vibrate significantly, making the marble move around.
+3. Enhanced mode, where the system has been modified to predict such unexpected events and prevent marbles from falling out of the cup by using an adjustable grip mechanism. 
+
+Your task is to test the functionality of this robot in all three modes and identify which one(s) need improvement.
+
+The rules for testing:
+1. Each mode should be run ten times consecutively with a break of 5 minutes between each trial.
+2. For unexpected mode, an identical setup must be repeated every time to ensure the event is not a fluke.
+3. The Enhanced mode can only be tested if no unexpected events occur during previous trials.
+
+Question: Which mode(s) need improvement?
+
+
+First, run the robot in Normal mode for ten consecutive runs with regular breaks. Note down any marbles falling out of the cup during these runs.
+
+Next, repeat step 1 but this time switch to Unexpected mode. The setup should remain identical every trial to ensure consistent results.
+
+After testing the Unexpected mode, if no unexpected events occur, then proceed to test Enhanced mode. This mode can only be tested after ensuring the previous two modes were run without any issues. 
+
+Answer: The mode(s) that need improvement is/are either Normal or Unexpected Mode depending on whether marbles fell out of the cup during these runs in the robot's operation. If no unexpected events occur during testing Enhanced mode, then the robot is ready for use and does not require any further improvements. 

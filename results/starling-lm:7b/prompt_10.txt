@@ -1,0 +1,17 @@
+ We can solve this problem using the concept of rate. The inlet pipe fills the tank at a rate of 1/25 of the tank per minute, and the drain empties the tank at a rate of 1/55 of the tank per minute. 
+
+Since the drain was left open for some time before it was noticed, let's assume it was left open for x minutes. During this time, the inlet pipe continued to fill the tank, and the drain emptied the tank at a rate of 1/25 - 1/55 of the tank per minute (since the drain was working against the inlet pipe). 
+
+So, the net amount of the tank that got filled during this time is: 
+(1/25) * x + (1/55) * x = (3x + x)/110
+
+Since the tank is now full, the total amount filled by the inlet pipe should be equal to the amount emptied by the drain. Therefore, we can set up the equation: 
+(3x + x)/110 = 1
+
+Solving for x, we get: 
+4x = 110
+x = 27.5
+
+Hence, it took approximately 27.5 minutes to fill up the tank. 
+
+To the nearest tenth of a minute, the answer is 27.5 minutes.

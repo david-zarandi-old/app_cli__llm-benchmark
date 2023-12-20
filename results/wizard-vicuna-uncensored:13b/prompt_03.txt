@@ -1,0 +1,13 @@
+Assuming the drying time for 5 shirts is directly proportional to the number of shirts, we can use the formula:
+time = k/n
+where k is a constant rate (e.g., the speed at which the sun dries the shirts), and n is the number of shirts being dried.
+For 5 shirts, we know that it takes 4 hours to dry them. Therefore:
+time = k/5
+Substituting the given value into this equation gives us:
+k/5 = (k/n)
+Simplifying this equation gives us:
+k = 5*n
+Now let's assume we have 20 shirts to dry. Substituting n=20 into the above equation gives us:
+k = 5*20
+k = 100
+This means that it will take 100 hours for 20 shirts to dry, assuming that the rate at which the sun dries them remains constant.

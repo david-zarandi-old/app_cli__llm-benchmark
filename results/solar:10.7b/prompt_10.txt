@@ -1,0 +1,14 @@
+Let's assume the capacity of the water tank is T gallons.
+The inlet pipe can fill the tank in 25 minutes, so it fills at a rate of T/25 gallons per minute.
+The drain can empty the tank in 55 minutes, so it drains at a rate of T/(55) gallons per minute.
+When the mistake was not caught, the tank was full, which means the amount filled by the inlet pipe is equal to the amount emptied by the drain in that time.
+So we can set up an equation: T/25 - T/(55) = 0.
+To simplify this equation, we can find a common denominator of 165: (4T - T)/165 = 0.
+Combining like terms gives us -3T/165 = 0.
+To isolate T, we multiply both sides by -3: T = 0 * (-3) / 165 = 0.
+Since the capacity of the tank is 0 gallons, which makes no sense in this context, there must have been an error or missing information.
+However, we can still find how long it took to fill up the tank.
+We know that the inlet pipe fills at a rate of T/25 = T/0 = 165 gallons per minute (since T is undefined).
+Therefore, it takes 25 minutes for the tank to be filled completely.
+To the nearest tenth of a minute, this time is 25 minutes.
+The answer is: 25

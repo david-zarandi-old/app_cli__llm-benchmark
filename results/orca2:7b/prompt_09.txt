@@ -1,0 +1,17 @@
+Given:
+- Distance to friend's house = 480 km
+- Time to reach the friend's house = 6 hours
+
+Goal: Find the average speed David has to drive at.
+
+Steps:
+1. The formula for calculating average speed is:
+   Average Speed (A.S.) = Total Distance / Total Time
+
+2. Plug in the given values into the formula:
+   A.S. = 480 km / 6 hours
+
+3. Calculate the average speed:
+   A.S. = 80 km/h (rounded to the nearest whole number)
+
+#### 80

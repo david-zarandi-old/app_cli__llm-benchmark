@@ -1,0 +1,6 @@
+To calculate the time it took to fill up the tank, we need to use the formula:
+Time = (inlet pipe capacity / tank capacity) x time taken by inlet pipe
+Since the drain can empty the tank in 55 minutes, we know that the tank has a capacity of 55 minutes. Let's assume the inlet pipe has a capacity of 25 minutes to fill the tank. Therefore:
+Time = (25 / 55) x 60 = 13.84 minutes
+Since this is an approximation, we round it up to the nearest tenth of a minute:
+The time taken to fill up the tank is approximately 14 minutes.

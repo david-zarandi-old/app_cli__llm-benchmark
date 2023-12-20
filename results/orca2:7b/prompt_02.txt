@@ -1,0 +1,17 @@
+1. Identify the main theme or topic of the story: The main theme is about Bruce, a police officer, handling an accident scene involving his friend Tanya.
+
+2. Look for any cause and effect relationships between the sentences: 
+- Bruce being a police officer who handles traffic accidents (S4) leads to him being called to an accident scene (S3).
+- He recognizes Tanya's car at the accident scene (S5) which is related to his usual encounters with bad accidents (S2).
+- He gets scared until he finds out she's okay (S1) after realizing it's Tanya's car.
+
+3. Find the sentence that could be the start of the story: Sentence 4 introduces Bruce and his job, making it a good starting point.
+
+4. Rearrange the sentences in the correct order based on the information gathered in the previous steps: 
+- Sentence 4: Bruce was a police officer who handled traffic accidents.
+- Sentence 3: One day Bruce was called to an accident scene.
+- Sentence 5: He immediately recognized his friend Tanya's car.
+- Sentence 2: He usually saw really bad accidents and it always unnerved him.
+- Sentence 1: He was scared until he found out she was ok.
+
+5. Final answer: The correct order of the sentences is '43521'.

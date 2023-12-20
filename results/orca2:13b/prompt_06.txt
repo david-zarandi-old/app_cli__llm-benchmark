@@ -1,0 +1,14 @@
+Given:
+- There are three killers in a room
+- Someone enters the room and kills one of them
+- Nobody leaves the room
+
+Goal: How many killers are in the room?
+
+Steps:
+- Let x be the number of killers in the room after someone enters and kills one of them
+- Since nobody leaves the room, the initial number of killers and the final number of killers must be equal
+- Therefore, we can write an equation: 3 = x + 1 - 1
+- Simplifying the equation, we get: 3 = x
+- Hence, the number of killers in the room is 3
+### Final answer: 3

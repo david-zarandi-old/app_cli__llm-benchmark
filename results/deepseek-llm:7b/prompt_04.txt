@@ -1,0 +1,9 @@
+First, we need to follow the order of operations, which states that we should perform any calculations within parentheses first. In this case, there are no parentheses. Next, we need to multiply:
+
+4 * 2 = 8
+
+Now, we can simplify the expression further by performing the addition and subtraction:
+
+25 - 8 + 3 = 17
+
+So, the final answer is \boxed{17}.

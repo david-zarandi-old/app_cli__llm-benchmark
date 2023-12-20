@@ -1,0 +1,10 @@
+ To find out how long 20 shirts would take to dry, we first need to determine the rate at which one shirt dries. Since it takes 4 hours to dry 5 shirts, we can divide the total time by the number of shirts.
+
+Total time for 5 shirts = 4 hours
+Dry rate per shirt = Total time / Number of shirts = 4 hours / 5 shirts = 0.8 hours per shirt
+
+Now, if we multiply this dry rate by the number of shirts (20), we can find out how long it would take for all 20 shirts to dry.
+
+Time to dry 20 shirts = Dry rate per shirt * Number of shirts = 0.8 hours per shirt * 20 shirts = 16 hours
+
+So, 20 shirts would take approximately 16 hours to dry in the sun if they are all laid out at the same time and dried under similar conditions as the initial 5 shirts.

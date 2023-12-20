@@ -1,0 +1,22 @@
+
+If it takes 4 hours to dry 5 shirts in the sun, we can determine how long it would take to dry 20 shirts by considering their combined weight. Assuming all the shirts have approximately the same weight, you can use the formula:
+
+Time = (Weight / Power)
+
+In this case, the power is the sun's energy, which effectively dries the shirts. Since we don't know the exact amount of energy the sun provides, we can estimate it by considering the surface area of the shirts exposed to the sun. A rough estimation is that each shirt covers an area equal to its width and length.
+
+For 5 shirts:
+Surface Area = Width \* Length
+2 (lengths) + 2 (widths) = 10 square meters
+
+For 20 shirts:
+Surface Area = Width \* Length
+40 (lengths) + 40 (widths) = 80 square meters
+
+Now, we can calculate the time it takes to dry the 20 shirts by dividing their total weight by the available sun's energy:
+
+Time = (Weight / Power)
+Time = (20 \* Weight of 1 shirt) / 80 square meters
+Time ≈ 4 hours
+
+So, it would take approximately 4 hours to dry the 20 shirts in the sun.

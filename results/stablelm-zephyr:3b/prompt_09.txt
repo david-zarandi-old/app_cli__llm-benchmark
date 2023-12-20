@@ -1,0 +1,5 @@
+To find the average speed, we need to divide the total distance by the total time.
+The total distance is 480 kilometers and the total time is 6 hours.
+So, the average speed is 480 kilometers / 6 hours = 80 kilometers per hour.
+#### 80
+The answer is: 80

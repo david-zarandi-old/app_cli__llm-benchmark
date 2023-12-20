@@ -1,0 +1,8 @@
+43251
+Explanation: 
+The correct order of the story is as follows: 
+1. Bruce was a police officer who handled traffic accidents (Sentence4).
+2. He usually saw really bad accidents and it always unnerved him (Sentence2).
+3. One day Bruce was called to an accident scene (Sentence3).
+4. He immediately recognized his friend Tanya's car (Sentence5).
+5. He was scared until he found out she was ok (Sentence1).

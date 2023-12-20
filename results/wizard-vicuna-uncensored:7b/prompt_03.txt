@@ -1,0 +1,11 @@
+Let x = time taken to dry 1 shirt (in hours)
+Then, the time taken to dry n shirts will be:
+x + x + x + ...+x=n(x)
+where '+' represents addition.
+So, the time taken to dry 20 shirts is given by:
+(5)(4)+...+(5)(4)=100(x)
+Now, we know that the time taken to dry 5 shirts is 4 hours. So, we can set up an equation and solve for x:
+5x=4 (where x represents time in hours)
+Solving for x, we get x=8/5 or approximately 1.6 hours.
+Therefore, the time taken to dry 20 shirts would be approximately:
+(1.6)(20)=32 hours

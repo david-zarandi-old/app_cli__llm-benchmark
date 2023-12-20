@@ -1,0 +1,4 @@
+If it takes 4 hours for 5 shirts to dry, then 1 shirt would take 4/5 hours to dry.
+So, 20 shirts would take 20 * (4/5) = 16 hours to dry.
+#### 16
+The answer is: 16

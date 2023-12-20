@@ -1,0 +1,8 @@
+If David is driving for 6 hours, then he needs to cover 480 kilometers in that time period.
+The average speed of the car can be calculated using the formula:
+Average speed = Total distance / Total time
+Substituting the values given in the question, we get:
+Average speed = 480 km / 6 hours
+Simplifying this expression gives us:
+Average speed = 80 km/hour
+Therefore, David needs to drive at an average speed of 80 km/hour to reach his friend's house in 6 hours.

@@ -1,0 +1,27 @@
+Given:
+Jane is faster than Joe.
+Joe is faster than Sam.
+
+Goal: Is Sam faster than Jane?
+
+Steps:
+- We can use a Venn diagram to represent the relative speeds of Jane, Joe, and Sam. Let A be the set of activities that Jane is faster than Joe in, B be the set of activities that Joe is faster than Sam in, and C be the set of activities that both Jane and Joe are faster than Sam in.
+- The diagram would look like this:
+
+       +-----------------+
+       |         A      |
+       +--------+-------+
+             |
+             v
+       +--------+-------+
+       |         B      |
+       +--------+-------+
+             |
+             v
+       +--------+-------+
+       |        C      |
+       +-----------------+
+
+- This means that Jane is faster than Joe in A, Joe is faster than Sam in B, and both Jane and Joe are faster than Sam in C. We can assume that all three people have the same speed in activities that are not in A, B, or C.
+- Now we want to know if Sam is faster than Jane in any activity. This means that we need to find an activity that is neither in A nor in B, and also not in C. But this is a contradiction, because any such activity would either belong to A or to B or to C, by the definition of these sets. Therefore, there is no such activity, and Sam is not faster than Jane in any activity.
+### Final answer: No, Sam is not faster than Jane.

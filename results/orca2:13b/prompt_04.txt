@@ -1,0 +1,12 @@
+Given:
+25 - 4 * 2 + 3
+
+Goal: find the value of the expression
+
+Steps:
+- Apply the order of operations (PEMDAS): parentheses, exponents, multiplication and division, addition and subtraction
+- There are no parentheses or exponents in the expression, so move to the next step
+- Perform the multiplication and division from left to right: 25 - 4 * 2 + 3 = 25 - 8 + 3
+- Perform the addition and subtraction from left to right: 25 - 8 + 3 = 17 + 3
+- Perform the final addition: 17 + 3 = 20
+### Final answer: 20
