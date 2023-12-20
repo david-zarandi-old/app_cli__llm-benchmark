@@ -1,0 +1,19 @@
+```json
+[
+    {
+        "name": "Mark",
+        "gender": "male",
+        "age": 22
+    },
+    {
+        "name": "David",
+        "gender": "male",
+        "age": 29
+    },
+    {
+        "name": "Rebecca",
+        "gender": "female",
+        "age": 27
+    }
+]
+```

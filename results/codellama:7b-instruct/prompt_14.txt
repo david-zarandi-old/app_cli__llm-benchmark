@@ -1,0 +1,23 @@
+
+Here is the JSON for the information provided:
+```
+{
+  "people": [
+    {
+      "name": "David",
+      "age": 29,
+      "gender": "male"
+    },
+    {
+      "name": "Mark",
+      "age": 22,
+      "gender": "male"
+    },
+    {
+      "name": "Rebecca",
+      "age": 27,
+      "gender": "female"
+    }
+  ]
+}
+```

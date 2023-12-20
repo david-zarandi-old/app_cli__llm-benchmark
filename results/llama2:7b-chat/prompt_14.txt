@@ -1,0 +1,27 @@
+Here is the JSON representation of the information you provided:
+```
+{
+  "people": [
+    {
+      "name": "Mark",
+      "age": 22
+    },
+    {
+      "name": "David",
+      "age": 29
+    },
+    {
+      "name": "Rebecca",
+      "age": 27
+    }
+  ]
+}
+```
+Explanation:
+
+* `people` is an array of objects, each representing a person.
+* Each object in the array has a `name` property and an `age` property.
+* The `name` property is a string that represents the name of the person.
+* The `age` property is a number that represents the age of the person.
+
+I hope this helps! Let me know if you have any questions.

@@ -1,0 +1,26 @@
+ {
+  "Total_People": 3,
+  "Male_Count": 2,
+  "Names": [
+    "Mark",
+    "David",
+    "Rebecca"
+  ],
+  "Woman": {
+    "Name": "Rebecca",
+    "Age": 27,
+    "Gender": "Female"
+  },
+  "Males": [
+    {
+      "Name": "Mark",
+      "Age": 22,
+      "Gender": "Male"
+    },
+    {
+      "Name": "David",
+      "Age": 29,
+      "Gender": "Male"
+    }
+  ]
+}

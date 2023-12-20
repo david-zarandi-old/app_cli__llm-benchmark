@@ -1,0 +1,14 @@
+The time complexity of this algorithm is O(2^n).
+
+To understand why, let's analyze the recursive calls in the function. For every level of the recursion, there are two sub-calls: `f(n - 1)` and `f(n - 2)`. Since there are two calls at each level, the number of levels is halved in every iteration.
+
+Let's consider an example with n = 5:
+
+* Level 0 (n = 5): One call to f(3)
+* Level 1 (n = 4): Two calls, one to f(2) and another to f(2). This results in two more recursive calls to f(1) and f(0), respectively. So there are four total calls at this level.
+* Level 2 (n = 3): Four calls, each resulting in a single call to f(1) or f(0). That's four more recursive calls at this level.
+* Level 3 (n = 2): Eight calls to the base case of n < 2.
+* Level 4 (n = 1): Four calls again, each resulting in a call to f(0).
+* Level 5 (n = 0): One final call to f(-1), which is ignored since it's outside the range of valid inputs.
+
+In total, we have made 2^5 = 32 calls to the function. This pattern continues for all values of n. Therefore, the time complexity of this algorithm is O(2^n).

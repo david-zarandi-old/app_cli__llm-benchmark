@@ -1,0 +1,19 @@
+{
+ "people": [
+ {
+ "name": "Rebecca",
+ "gender": "female",
+ "age": 27,
+ },
+ {
+ "name": "David",
+ "gender": "male",
+ "age": 29,
+ },
+ {
+ "name": "Mark",
+ "gender": "male",
+ "age": 22,
+ }
+ ]
+}

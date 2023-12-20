@@ -1,0 +1,9 @@
+ To find the average speed David needs to maintain, we can use the formula:
+
+Average Speed = Total Distance / Time
+
+In this case, the total distance is 480 kilometers and the time taken is 6 hours. Plugging these values into the formula, we get:
+
+Average Speed = 480 km / 6 hr = 80 km/hr
+
+So, David needs to maintain an average speed of 80 kilometers per hour in order to reach his friend's house in 6 hours.

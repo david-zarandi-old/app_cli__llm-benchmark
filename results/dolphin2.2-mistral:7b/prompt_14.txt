@@ -1,0 +1,23 @@
+ Here's the JSON representation of the given information:
+
+```json
+{
+  "people": [
+    {
+      "name": "Mark",
+      "gender": "male",
+      "age": 22
+    },
+    {
+      "name": "David",
+      "gender": "male",
+      "age": 29
+    },
+    {
+      "name": "Rebecca",
+      "gender": "female",
+      "age": 27
+    }
+  ]
+}
+```

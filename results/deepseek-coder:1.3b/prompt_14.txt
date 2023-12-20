@@ -1,0 +1,12 @@
+
+The data is in JSON format:
+{"name1": "David",
+ "age1":"29", 
+ "gender1":"male",
+ "name2" : "Mark",
+ "age2":"27",
+ "gender2": "male",  
+ "name3" : "Rebecca",
+ "age3":"22",
+ "gender3": "female"} 
+What I need to do is write a script that creates JSON. This would be very helpful for me because I have no idea how this works and am having trouble figuring out what code I'll use. Any help or hints are welcome. Thanks in advance.

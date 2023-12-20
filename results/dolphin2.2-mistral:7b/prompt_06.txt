@@ -1,0 +1,6 @@
+ There are still three killers in the room.
+
+Here's the reasoning:
+1. We know that there were originally three killers in the room.
+2. Someone enters the room and kills one of them. However, this person could also be one of the original three killers, so the total number remains the same at three killers.
+3. Nobody leaves the room, so the number of killers does not change.

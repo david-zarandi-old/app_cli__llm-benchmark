@@ -1,0 +1,6 @@
+ If 5 shirts can be dried in 4 hours, then the time it would take to dry 20 shirts is:
+
+Time for 20 shirts = (number of shirts / number of shirts drying at once) * total drying time
+Time for 20 shirts = (20 / 5) * 4 hours = 16 * 4 hours = 64 hours.
+
+However, since multiple shirts can be dried simultaneously, you may choose to dry them in smaller batches or at the same time using multiple sources of heat (e.g., air conditioners or sunny spots). This might reduce the overall drying time, but it is impossible to determine an exact time without additional information about the specific conditions and equipment available for drying shirts.

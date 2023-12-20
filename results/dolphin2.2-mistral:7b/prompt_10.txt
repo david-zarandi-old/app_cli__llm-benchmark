@@ -1,0 +1,28 @@
+ Let the time taken to fill up the tank be x minutes. Then, 25x = 100% (because the inlet pipe filled the tank completely). Similarly, (55/2)x = 100% (since the drain is half as effective as the inlet pipe). So, (55/2)x = 50%.
+
+Now we have two equations:
+
+25x = 100%
+(55/2)x = 50%
+
+From the first equation, x = 4 minutes. Now plug this value into the second equation to check if it holds true: (55/2)*4 = 77.5/2 = 38.75. However, this result is not a full percentage. This means that the initial assumption of 4 minutes was incorrect.
+
+Try again with x = 3.6 minutes. Now plug this value into both equations:
+
+(25*3.6) = 86.4 (97%) - This means that, in 3.6 minutes, the tank is approximately 97% full. This is still not 100%, which indicates an error in our assumption.
+
+Try with x = 3.2 minutes:
+(25*3.2) = 80 (80%) - This result is also incorrect.
+
+With x = 3 minutes, we get closer to 100%:
+(25*3) = 75 (75%) - Still not a perfect match.
+
+With x = 2.9 minutes, we get even closer:
+(25*2.9) = 72.5 (72.5%) - This is still not a perfect match.
+
+Finally, with x = 2.8 minutes, we find the exact match:
+(25*2.8) = 68 (68%) - This means that when the drain was left open by mistake, the tank filled up to about 68% of its capacity in 2.8 minutes before the error was caught and fixed.
+
+Since the tank is full, the remaining percentage must be accounted for by the time it took to fill the last 32%. Given that the drain empties half as fast as the inlet pipe, it takes an additional 14 minutes (since 14*2 = 28) for the drain to empty the tank.
+
+So, in total, the tank was filled up to about 68% of its capacity in 2.8 minutes and then emptied by the drain over the next 14 minutes. Therefore, it took a total of 2.8 + 0.14 = 3 minutes (to the nearest tenth) to fill up the tank with the mistake made.

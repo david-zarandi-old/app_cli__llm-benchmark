@@ -1,0 +1,25 @@
+ Here is a JSON representation of the provided information:
+
+```json
+{
+  "people": [
+    {
+      "name": "Mark",
+      "gender": "male",
+      "age": 22
+    },
+    {
+      "name": "David",
+      "gender": "male",
+      "age": 29
+    },
+    {
+      "name": "Rebecca",
+      "gender": "female",
+      "age": 27
+    }
+  ]
+}
+```
+
+In this JSON object, the key-value pairs are used to store information about each person. The "people" key contains an array of objects, where each object represents a person with their respective properties such as name, gender, and age.

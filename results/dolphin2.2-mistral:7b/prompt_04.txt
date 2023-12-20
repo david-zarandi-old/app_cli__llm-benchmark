@@ -1,0 +1,11 @@
+ Let's solve this step by step.
+
+Given expression is: 25 - 4 * 2 + 3
+
+First, perform the multiplication:
+25 - 8 + 3
+
+Next, perform subtraction and addition in order from left to right:
+17 + 3
+
+The final result is: 20

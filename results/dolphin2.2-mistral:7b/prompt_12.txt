@@ -1,0 +1,20 @@
+ Here's a simple algorithm in Node.js that prints 1 through 100 using `process.stdout`:
+
+```javascript
+for (let i = 1; i <= 100; i++) {
+    process.stdout.write(i + " ");
+}
+```
+
+When you run this code in a Node.js environment, it will output the numbers from 1 to 100 sequentially without any newline characters. To add newline characters and separate the numbers on different lines, you can modify the code as follows:
+
+```javascript
+for (let i = 1; i <= 100; i++) {
+    process.stdout.write(i + " ");
+    if ((i % 10) === 0 && i !== 100) { // Add newline every 10 numbers except for the last one
+        process.stdout.write("\n");
+    }
+}
+```
+
+This modified version of the algorithm will output the numbers on different lines, with each line containing ten numbers followed by a newline character.
