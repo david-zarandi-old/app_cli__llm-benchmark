@@ -1,0 +1,8 @@
+The given algorithm is an implementation of the Fibonacci sequence, where each number in the sequence is the sum of the two preceding ones. The time complexity of this algorithm can be analyzed by examining the recursive calls and their dependencies.
+
+1. Base case: When n < 2, the function returns n directly, which takes O(1) time.
+2. Recursive case: When n >= 2, the function makes two additional recursive calls, one for n-1 and another for n-2. The time complexity of these recursive calls depends on the base case and the recursive case.
+
+Since we have two recursive calls with a base case of O(1), the overall time complexity is determined by the number of times these recursive calls are made. In the worst case, when n = 2^k (where k is a positive integer), there will be 2^k - 1 recursive calls, each taking O(1) time.
+
+The time complexity of this algorithm can be expressed as T(n) = O((2^k - 1)), where n = 2^k and k is a positive integer.

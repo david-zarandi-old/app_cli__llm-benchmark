@@ -1,0 +1,9 @@
+Here is a possible algorithm in Node.js which prints 1 through 100 using `process.stdout`:
+
+```javascript
+const { write } = require('fs').promises;
+
+for (let i = 1; i <= 100; i++) {
+  await write(process.stdout, i + '\n');
+}
+```

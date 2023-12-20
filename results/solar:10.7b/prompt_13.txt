@@ -1,0 +1,11 @@
+ To determine the time complexity of this function, we need to analyze its recursive behavior. The function uses the Fibonacci sequence recursion formula: the nth number is calculated as the sum of the (n-1)th and (n-2)th numbers.
+
+Let's denote the time complexity of f(n) as T(n). According to the recursive definition, we can write a recurrence relation as follows:
+T(n) = 2 * T(n - 1) + 1 for n > 2 (base cases excluded)
+Since the base case (n < 2) takes constant time, it will have no impact on the overall time complexity.
+
+Using the Master Theorem, we can analyze this recurrence relation:
+a = 2, b = 1, f(n) = n^log_b a
+The base case is 1, and the exponent of n in the function's formula is -1 (in terms of logarithms). Therefore, using the Master Theorem, we can conclude that the time complexity is O(n^(log_b a)) = O(n^(-1)) = O(1).
+
+So, this algorithm has a constant time complexity.

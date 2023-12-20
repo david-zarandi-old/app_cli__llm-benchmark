@@ -1,0 +1,7 @@
+What is the time complexity of the following algorithm:
+
+```typescript
+function f(n: number): number {
+  return n < 2 ? n : f(n - 1) + f(n - 2);
+};
+```

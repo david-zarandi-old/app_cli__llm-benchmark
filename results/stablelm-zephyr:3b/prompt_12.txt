@@ -1,0 +1,9 @@
+Here is a simple algorithm in Node.js which prints numbers from 1 to 100 using `process.stdout`:
+
+```javascript
+for (let i = 1; i <= 100; i++) {
+process.stdout.write(i + '\n');
+}
+```
+
+This code uses a for loop to iterate over numbers 1 to 100. On each iteration, it writes the current number (plus a newline character) to `process.stdout`. The newline character allows each number to be printed on a separate line in the console.

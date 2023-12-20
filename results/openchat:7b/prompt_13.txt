@@ -1,0 +1,23 @@
+ The given algorithm is a recursive implementation of the Fibonacci sequence. The time complexity of this function can be determined by analyzing the number of times the function calls itself.
+
+Let's denote the number of times the function is called as `k`. When the base case `n < 2` is reached, the function stops calling itself and returns either `n` or `1`, depending on the value of `n`. The base case is reached after 0, 1, or 2 recursive calls.
+
+In the worst case scenario, we can observe that each recursive call generates two new calls to the function (`f(n - 1) + f(n - 2)`). This means that for every call, there are effectively 2 more calls being made (including the current call). Therefore, the total number of calls can be represented as:
+
+```
+k = 1 + 2 + 4 + 8 + ... + 2^(log2(n))
+```
+
+This is a geometric progression with a common ratio of 2. We can use the formula for the sum of a geometric progression to find the total number of calls:
+
+```
+k = (2^(log2(n) + 1) - 1) / (2 - 1)
+```
+
+Since `log2(n)` is usually much smaller than `n`, we can approximate this formula as:
+
+```
+k ≈ 2^n
+```
+
+Therefore, the time complexity of the given algorithm is exponential, specifically O(2^n).

@@ -1,0 +1,1 @@
+The time complexity of the given algorithm is O(n), where n is the input size. This is because the function calls itself recursively n-1 times, which results in a total number of recursive calls equal to n. Therefore, the worst-case runtime of the function is proportional to the input size.

@@ -1,0 +1,1 @@
+ The time complexity of this algorithm is O(2^n). This means that the running time of the function increases exponentially as the input size (in this case, n) grows. Specifically, for each recursive call made by the function, it makes two more calls, resulting in an exponential number of calls overall.

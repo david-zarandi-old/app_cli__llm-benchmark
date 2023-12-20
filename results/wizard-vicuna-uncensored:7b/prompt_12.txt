@@ -1,0 +1,12 @@
+```
+function printN(n) {
+ if (n < 0 || n > 100) {
+ console.error('Out of range');
+ return;
+ }
+ process.stdout.write(n + 'n');
+}
+for (var i = 1; i <= 100; i++) {
+ printN(i);
+};
+```

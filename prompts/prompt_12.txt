@@ -1,0 +1,1 @@
+Write a simple algorithm in Node.js which prints 1 through 100 using `process.stdout`

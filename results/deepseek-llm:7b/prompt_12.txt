@@ -1,0 +1,10 @@
+Sure, here's an algorithm that uses `process.stdout` in Node.js to print numbers from 1 to 100:
+```javascript
+const { stdout } = require('process'); // Import process module
+
+// Print numbers from 1 to 100 using process.stdout
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
+}
+```
+In this algorithm, we first import the `process` module and then use a for loop to iterate through numbers from 1 to 100. For each iteration of the loop, we call `console.log()` on `stdout` to print the current number to the console. When all iterations are complete, the algorithm is done.

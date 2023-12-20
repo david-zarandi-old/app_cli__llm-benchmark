@@ -1,0 +1,1 @@
+The time complexity of this algorithm is O(2^n) or exponential time. This is because the function calls itself recursively, leading to an ever-increasing number of function calls as the input value increases. The worst-case scenario occurs when the input value is 1, in which case there will be an infinite number of function calls before the function returns a value.

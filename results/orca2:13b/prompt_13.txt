@@ -1,0 +1,14 @@
+The time complexity of the function f is the number of steps it takes to compute for any input size n. To find this, we need to look at the structure of the function and figure out how many times each part is executed. 
+
+The function f has two base cases: n < 2 and n == 2. These are the only parts that return a value without calling f again. All other parts of the function call f Recursively, which means they call f with a smaller argument (n - 1 or n - 2).
+
+To count how many times each part is executed, we can follow these steps:
+
+1. Check if n < 2. If so, return n. This is done only once, regardless of the input size. So, it takes 1 step.
+2. If n ≠ 2, check if n > 2. If not, go to step 4. Otherwise, go to step 3. 
+3. Return n. This part also takes 1 step, since there is only one base case.
+4. If n >= 2, return the result of f(n - 1) + f(n - 2). This part takes two steps: one for each call to f (one for n - 1 and one for n - 2).
+
+So, the total time complexity is the sum of the steps taken by each part. That is, it is 1 + 1 + 2 = 4.
+
+Therefore, the time complexity of f is O(4).

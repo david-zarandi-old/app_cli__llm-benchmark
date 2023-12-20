@@ -1,0 +1,6 @@
+```
+for (let i = 1; i <= 100; i++) {
+ process.stdout.write(`${i} `);
+}
+```
+This code will loop through the numbers from 1 to 100 and print them on the console using `process.stdout.write()`. The space after `${i}` ensures that each number is printed on a new line.

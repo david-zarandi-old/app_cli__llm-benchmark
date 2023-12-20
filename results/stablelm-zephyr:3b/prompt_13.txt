@@ -1,0 +1,12 @@
+The time complexity of this algorithm can be determined by analyzing the recursive calls within the function. (f(n - 1) and f(n - 2)). Since each call is a separate operation, we simply add the time taken for these two operations to get the overall time complexity.
+
+In this case, both `f(n - 1)` and `f(n - 2)` are being called recursively with the same argument `n`. Therefore, their time complexities can be considered as O(1), since they don't depend on the size of the input `n`. 
+
+However, due to the overhead of making these recursive calls (which is constant time, not depending on the size of `n`), we have to consider the constant factor when adding those two times. Therefore, the overall time complexity would be O(2) or equivalently expressed as O(1 * n), since we are essentially doing a loop from i = 1 to n:
+
+```python
+for i in range(1, n + 1):
+f(i)
+```
+
+This code snippet performs n function calls (one for each value of i from 1 to n). Since the time complexity of each individual operation is constant (O(1)), the overall time complexity would be O(n). Hence, the original JavaScript/Typescript code with recursion has a time complexity of O(n), where n is the input number.

@@ -1,0 +1,20 @@
+
+The time complexity of the given algorithm can be derived as follows:
+
+The function `f` takes a single input `n`, and recursively calls itself with two arguments, `n-1` and `n-2`. Therefore, we can simplify the recursion relation to:
+
+`f(n) = f(n-1) + f(n-2)`
+
+We know that `n >= 2` due to the base case of `return n` when `n < 2`. So, for all `n`, we have:
+
+`f(n) = f(n-1) + f(n-2) <= 2 * (f(n-1) + f(n-2))`
+
+We can continue this recursion until the base case is reached and `return n` is executed. At each step, we add two values of `f(n-1)` and `f(n-2)`, which gives us the following inequality:
+
+`f(n) <= 2 * (f(n-1) + f(n-2)) = 2 * (f(n-2) + f(n-3))`
+
+Continuing this process, we can derive the recurrence relation for `f`:
+
+`f(n) <= 2 * (f(n-2) + f(n-3)) <= ... <= 2^(n-1)`
+
+This shows that `f` has a time complexity of `O(log n)`.

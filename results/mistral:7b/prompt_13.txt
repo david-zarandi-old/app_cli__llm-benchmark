@@ -1,0 +1,3 @@
+ The time complexity of the given function `f` is exponential, specifically it's a recursive implementation of the Fibonacci sequence. Each recursive call adds one new level to the call stack, so the number of calls grows exponentially with the input size (which is `n` in this case). Therefore, the time complexity can be expressed as `O(2^n)`.
+
+However, it's important to note that this implementation is not efficient for large values of `n`, due to the excessive number of recursive calls. An iterative approach or using memoization techniques would be more suitable for handling larger inputs while still maintaining a reasonable time complexity.

@@ -1,0 +1,17 @@
+ Here's a simple Node.js script that prints the numbers 1 through 100 using `process.stdout`:
+
+```javascript
+// Loop from 1 to 100
+for (let i = 1; i <= 100; i++) {
+  // Print each number followed by a newline character
+  process.stdout.write(i + '\n');
+}
+```
+
+You can save this script in a file, for example `print_numbers.js`, and run it using the following command:
+
+```bash
+node print_numbers.js
+```
+
+This will print the numbers from 1 to 100 on separate lines in the console output.

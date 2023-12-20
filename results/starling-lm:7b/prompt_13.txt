@@ -1,0 +1,1 @@
+ The time complexity of the given algorithm is O(2^n). This is because each recursive call to function f reduces the input size by 1, but it also doubles the number of recursive calls. Therefore, the number of recursive calls grows exponentially with the input size n.

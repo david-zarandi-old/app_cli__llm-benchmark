@@ -1,0 +1,33 @@
+To write a simple algorithm in Node.js which prints 1 through 100 using `process.stdout`, we can use the following steps:
+
+- Create a function that takes an integer n as its argument and returns the string representation of n. For example, if n is 42, then return "42".
+- Use a loop to iterate over the numbers from 1 to 100. We can use the built-in `for` statement or a `while` loop for this purpose. For example, using a `for` loop, we can write:
+
+```javascript
+for (let i = 1; i <= 100; i++) {
+  let number = Number(i); // Convert the integer to a number object
+  process.stdout.write(number + " "); // Write the number followed by a space
+}
+```
+
+- End the script with a newline character or use `process.exit()` to exit gracefully. For example, we can write:
+
+```javascript
+process.stdout.write("\n"); // Write a newline character
+process.exit(0); // Exit with code 0
+```
+
+Putting it all together, the simple algorithm in Node.js which prints 1 through 100 using `process.stdout` is:
+
+```javascript
+function numberToStr(n) {
+  let number = Number(n);
+  return number + "";
+}
+
+for (let i = 1; i <= 100; i++) {
+  process.stdout.write(numberToStr(i) + " ");
+}
+process.stdout.write("\n");
+process.exit(0);
+```

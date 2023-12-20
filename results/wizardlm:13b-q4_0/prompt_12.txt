@@ -1,0 +1,20 @@
+
+Here's a simple Node.js algorithm that uses `process.stdout` to print numbers from 1 to 100:
+```javascript
+// Import 'readable-stream/passthrough'.
+const { PassThrough } = require('readable-stream');
+
+// Create a readable stream that writes to process.stdout.
+const outputStream = new PassThrough();
+process.stdout.push(outputStream);
+
+// Loop through numbers 1 to 100 and print them using the output stream.
+for (let i = 1; i <= 100; i++) {
+  console.log(`Printing number ${i}`); // You can remove this if you don't need it in the logs.
+  outputStream.write(String(i));
+}
+
+// Remove the extra stream added to process.stdout.
+process.stdout.pop();
+```
+This algorithm first imports the `PassThrough` class from the `readable-stream` module, which is used to create a readable stream that writes to `process.stdout`. The output stream is then pushed onto `process.stdout`, and a loop is used to print numbers 1 through 100 using the output stream. Finally, the extra stream added to `process.stdout` is removed, and the example logs the progress to the console.

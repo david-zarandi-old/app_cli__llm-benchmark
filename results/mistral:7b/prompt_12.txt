@@ -1,0 +1,16 @@
+ Here's a simple algorithm in Node.js that prints numbers from 1 to 100 using `process.stdout`:
+
+```javascript
+// Function to print numbers from given number to next number (i.e. upto n-1)
+function printNumbersUpTo(n) {
+  for (let i = 1; i < n; i++) {
+    process.stdout.write(`${i} `);
+  }
+  process.stdout.write(`${n}\n`); // Print the number itself on a new line
+}
+
+// Start printing numbers from 1 to 100
+printNumbersUpTo(101);
+```
+
+This code defines a recursive function `printNumbersUpTo(n)` that uses a `for` loop to print all numbers up to the given number (excluding the given number itself). It also prints the given number on a new line using `process.stdout.write('\n')`. The main logic is then to call this function with an argument of 101, which will print numbers from 1 to 100.
