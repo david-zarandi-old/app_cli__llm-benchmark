@@ -18,6 +18,8 @@ ollama server.
 3. Run `npm install` to install all dependencies.
 4. Run `npm run build` to compile the TypeScript code. 
 5. Run `npm run clean:results` to clear the `results` directory 
+6. If you aren't running the ollama server locally, you need to specify the base url by creating a `.env` file, using
+the `.env.template` file.
 6. Run `npm run benchmark` to execute the benchmarks 
 7. Check the results `results` folder
 
