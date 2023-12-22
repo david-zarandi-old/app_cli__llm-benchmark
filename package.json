@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package",
-  "name": "app_cli__llm_benchmark",
+  "name": "app_cli__llm-benchmark",
   "private": true,
   "description": "A Typescript CLI for benchmarking LLMs",
   "license": "BSD-3-Clause",
